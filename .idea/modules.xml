@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BroCode.iml" filepath="$PROJECT_DIR$/BroCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals&amp;LogicalOperators/Conditionals&amp;LogicalOperators.iml" filepath="$PROJECT_DIR$/Conditionals&amp;LogicalOperators/Conditionals&amp;LogicalOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Expressions/Expressions.iml" filepath="$PROJECT_DIR$/Expressions/Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserInput/UserInput.iml" filepath="$PROJECT_DIR$/UserInput/UserInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
     </modules>
