@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class Hipotenuse {
+public class Hypotenuse {
     public static void main(String[] args){
         double x;
         double y;
-        double hipotenuse;
+        double hypotenuse;
 
         Scanner sc = new Scanner(System.in);
 
@@ -13,9 +13,9 @@ public class Hipotenuse {
         System.out.println("ENTER SIDE Y: ");
         y = sc.nextDouble();
 
-        hipotenuse = Math.sqrt((x*x)+(y*y));
+        hypotenuse = Math.sqrt((x*x)+(y*y));
 
-        System.out.println("The hipotenuse is: "+hipotenuse);
+        System.out.println("The hypotenuse is: "+hypotenuse);
 
         sc.close(); //good practice
     }
