@@ -2,7 +2,7 @@ import java.util.Scanner; //imports scanner class (self explanatory)
 
  class ScannerBasic {
     public static void main(String[] args) {
-        Scanner  scanner = new Scanner(System.in); //create scanner
+        Scanner scanner = new Scanner(System.in); //create scanner
 
         System.out.println("What is your name?");
         String name = scanner.nextLine();   //read user input
