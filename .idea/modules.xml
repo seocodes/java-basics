@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/Composition/Composition.iml" filepath="$PROJECT_DIR$/OOP/Composition/Composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditionals&amp;LogicalOperators/Conditionals&amp;LogicalOperators.iml" filepath="$PROJECT_DIR$/Conditionals&amp;LogicalOperators/Conditionals&amp;LogicalOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/OOP/Constructors/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ErrorHandling/ErrorHandling.iml" filepath="$PROJECT_DIR$/ErrorHandling/ErrorHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Expressions/Expressions.iml" filepath="$PROJECT_DIR$/Expressions/Expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
@@ -31,7 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/SuperKeyword/SuperKeyword.iml" filepath="$PROJECT_DIR$/OOP/SuperKeyword/SuperKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserInput/UserInput.iml" filepath="$PROJECT_DIR$/UserInput/UserInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WrapperClasses/WrapperClasses.iml" filepath="$PROJECT_DIR$/WrapperClasses/WrapperClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/WrapperClasses/WrapperClasses.iml" filepath="$PROJECT_DIR$/OOP/WrapperClasses/WrapperClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/toString/toString.iml" filepath="$PROJECT_DIR$/OOP/toString/toString.iml" />
     </modules>
   </component>

@@ -5,7 +5,8 @@ public class ArrayList1 {
 
         /* ArrayList = a resizable array.
         *              elements can be added and removed after compilation phase
-        *              store reference data types ONLY!!!!!!!!  */
+        *              STORES REFERENCE DATA TYPES ONLY (MAKES AUTOBOXING)!!!!!!!!
+        *              Arrays are fixed in size, but ArrayLists can change  */
 
         ArrayList<String> food = new ArrayList<String>();
 

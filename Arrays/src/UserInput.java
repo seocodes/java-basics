@@ -14,7 +14,8 @@ public class UserInput {
 
         for(int i = 0; i<foods.length; i++){
             System.out.println("Enter a food: ");
-            foods[i] = sc.nextLine();
+            String food = sc.nextLine();
+            foods[i] = food;
         }
 
         for(String food : foods){
