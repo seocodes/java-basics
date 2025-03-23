@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/OOP/Constructors/Constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-ENUMS-THREADING/DSA-ENUMS-THREADING.iml" filepath="$PROJECT_DIR$/DSA-ENUMS-THREADING/DSA-ENUMS-THREADING.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dates-Times/Dates-Times.iml" filepath="$PROJECT_DIR$/Dates-Times/Dates-Times.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-ENUMS-THREADING/Enums/Enums.iml" filepath="$PROJECT_DIR$/DSA-ENUMS-THREADING/Enums/Enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/ErrorHandling/ErrorHandling.iml" filepath="$PROJECT_DIR$/ErrorHandling/ErrorHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Expressions/Expressions.iml" filepath="$PROJECT_DIR$/Expressions/Expressions.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/MethodOverriding/MethodOverriding.iml" filepath="$PROJECT_DIR$/OOP/MethodOverriding/MethodOverriding.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-ENUMS-THREADING/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/DSA-ENUMS-THREADING/MultiThreading/MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OverloadedConstructors/OverloadedConstructors.iml" filepath="$PROJECT_DIR$/OOP/OverloadedConstructors/OverloadedConstructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/OOP/Polymorphism/Polymorphism.iml" />
@@ -35,6 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/StaticKeyword/StaticKeyword.iml" filepath="$PROJECT_DIR$/OOP/StaticKeyword/StaticKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/SuperKeyword/SuperKeyword.iml" filepath="$PROJECT_DIR$/OOP/SuperKeyword/SuperKeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-ENUMS-THREADING/Threading/Threading.iml" filepath="$PROJECT_DIR$/DSA-ENUMS-THREADING/Threading/Threading.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserInput/UserInput.iml" filepath="$PROJECT_DIR$/UserInput/UserInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/WrapperClasses/WrapperClasses.iml" filepath="$PROJECT_DIR$/OOP/WrapperClasses/WrapperClasses.iml" />

@@ -14,8 +14,7 @@ public class simple2 {
             System.out.println(number);
         } catch (InputMismatchException e) {
             System.out.println("Should be a number, idiot");
-        } catch (
-                Exception e) {//not good practice to only use it, because the user wants to know whats wrong, if anything else fails, use this
+        } catch (Exception e) {//not good practice to only use it, because the user wants to know what's wrong, if anything else fails, use this
             //it's a SAFETY NET
             System.out.println("Something went wrong.");
         } finally {  //always execute, whether there's an exception or not, usually used for cleaning up your program
